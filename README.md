@@ -1,11 +1,11 @@
-#Lebenslauf - Sophie
+# Lebenslauf - Sophie
 
 Name: Sophie
 Geburtstag: 01.01.1994
 E-Mail: xxxx@xxxx.de
 
 
-##Kenntnisse:
+## Kenntnisse:
 
 - Kenntnisse in SQL
 - Kenntnisse in Java
@@ -17,7 +17,7 @@ E-Mail: xxxx@xxxx.de
 - Kenntnisse in Excel
 
 
-##SoftwareProjekte:
+## SoftwareProjekte:
 - App1 (Im App-Store)
 - App2 (Im App-Store)
 
