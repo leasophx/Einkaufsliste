@@ -1,0 +1,13 @@
+Einkaufsliste:
+
+Technik:
+- Macbook Pro (neuestes Modell, 16Zoll)
+
+Lebensmittel:
+- Fertigpizza
+- Lasagne
+- Bananen
+- Äpfel
+- Schokomilch
+
+
