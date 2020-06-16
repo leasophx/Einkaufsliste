@@ -2,6 +2,7 @@ Einkaufsliste:
 
 Technik:
 - Macbook Pro (neuestes Modell, 16Zoll)
+- Gitarre
 
 Lebensmittel:
 - Fertigpizza
@@ -9,5 +10,5 @@ Lebensmittel:
 - Bananen
 - Äpfel
 - Schokomilch
-
+- Wein
 
